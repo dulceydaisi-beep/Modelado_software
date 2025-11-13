@@ -58,6 +58,15 @@ Incluye capturas de:
 
 Pantalla de inicio de sesión
 
+
+
+
+
+<img width="482" height="430" alt="Captura de pantalla 2025-10-28 230606" src="https://github.com/user-attachments/assets/5d53bc10-6173-418f-aaed-7a7e16795791" />
+
+
+
+
 Captura de pantalla 2025-10-28 230606
 Menú principal
 
