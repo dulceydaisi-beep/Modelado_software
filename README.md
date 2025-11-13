@@ -72,10 +72,17 @@ Menu Principal
 
 
 
+
+
+<img width="735" height="619" alt="Captura de pantalla 2025-10-28 231119" src="https://github.com/user-attachments/assets/bbab7ba9-6fc8-4c09-a0c8-04babeeeb005" />
+
+
+Gestión de Productos
+
 <img width="484" height="361" alt="Captura de pantalla 2025-10-28 235111" src="https://github.com/user-attachments/assets/d3881688-fc7f-4614-b007-7a584efbe4d6" />
 
 
-Gestión de productos
+Reporte PDF
 
 
 
