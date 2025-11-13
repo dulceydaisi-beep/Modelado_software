@@ -67,16 +67,25 @@ Pantalla de inicio de sesión
 
 
 
-Captura de pantalla 2025-10-28 230606
-Menú principal
 
-Captura de pantalla 2025-10-28 231119
-Ventana de productos
 
-Captura de pantalla 2025-10-28 231239
-Ventas y reporte PDF
 
-Captura de pantalla 2025-10-28 235111
+
+
+<img width="484" height="361" alt="Captura de pantalla 2025-10-28 235111" src="https://github.com/user-attachments/assets/d3881688-fc7f-4614-b007-7a584efbe4d6" />
+
+
+
+
+
+
+<img width="871" height="485" alt="Captura de pantalla 2025-10-28 231743" src="https://github.com/user-attachments/assets/e8658843-c60a-40b7-a47b-93c48fbf5a8e" />
+
+
+
+
+
+
 🧩 Tecnologías utilizadas
 
 Java Swing – interfaz gráfica
